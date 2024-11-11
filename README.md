@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de pruebas modulo 2
+Prueba de como crear un repositorio
+lautaro romero
